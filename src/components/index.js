@@ -1,6 +1,7 @@
 
 import Billing from "./Billing";
 import Business from "./Business";
+import Button from "./Button";
 import CTA from "./CTA";
 import CardDeal from "./CardDeal";
 import Clients from "./Clients";
@@ -13,5 +14,5 @@ import Testimonials from "./Testimonials";
 
 
 export {
-    Billing , Business , CTA , CardDeal , Clients , Footer , GetStarted , Hero , Stats , Testimonials , Navbar
+    Billing , Business , CTA , CardDeal , Clients , Footer , GetStarted , Hero , Stats , Testimonials , Navbar, Button
 }
