@@ -5,7 +5,7 @@ import Button from "./Button"
 const CardDeal = () => {
     return (
 
-        <section className={`${layout.section}`} id='features'>
+        <section className={`${layout.section}`} id='carddeal'>
 
             <div className={layout.sectionInfo}>
                 <h2 className={styles.heading2}>
